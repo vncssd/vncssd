@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Backend Developer</p>
+<p align="left">Desenvolvedor Backend em formação</p>
 
 ###
 
