@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋 I'm Vinícius</h1>
+<h1 align="left">Oi 👋 Eu sou Vinícius</h1>
 
 ###
 
@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">Sobre mim</h2>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">Technologies</h2>
+<h2 align="left">Tecnologias</h2>
 
 ###
 
