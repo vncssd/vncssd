@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left"> No momento atuo como Soldado do Exército na arma de Comunicações e Auxiliar de T.I. no 6º Batalhão de Infantaria Aeromóvel, em Caçapava/SP, oferecendo suporte técnico, realizando manutenção preventiva, montagem e configuração de hardware, administração/instalação e manutenção de redes, segurança da informação, backups e desenvolvimento e manutenção de sistemas internos. Minhas habilidades também incluem liderança, assistência e aconselhamento, participação em operações, supervisão de atividades operacionais e administrativas, e apoio no treinamento de soldados mais novos. <br>
+<p align="left"> No momento atuo como Cabo do Exército na arma de Comunicações e Auxiliar de T.I. no 6º Batalhão de Infantaria Aeromóvel, em Caçapava/SP, oferecendo suporte técnico, realizando manutenção preventiva, montagem e configuração de hardware, administração/instalação e manutenção de redes, segurança da informação, backups e desenvolvimento e manutenção de sistemas internos. Minhas habilidades também incluem liderança, assistência e aconselhamento, participação em operações, supervisão de atividades operacionais e administrativas, e apoio no treinamento de soldados mais novos. <br>
   
   <br>🧠 - Aprendendo Java com Spring Framework</p>
 
