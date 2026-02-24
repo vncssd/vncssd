@@ -10,9 +10,9 @@
 
 ###
 
-<p align="left"> Técnico em Desenvolvimento de Sistemas pela Etec Machado de Asiss, atualmente cursando Banco de Dados na Fatec Prof. Jassen Vidal, em São José dos Campos com uma sólida base em Suporte de TI, adquirida como Auxiliar de Informática no Exército Brasileiro. Sou apaixonado por desenvolvimento de software e, atualmente, estou focado em expandir minhas habilidades como Desenvolvedor Backend, com ênfase em Java e Spring Boot. Busco oportunidades para transicionar minhas habilidades analíticas e de resolução de problemas para uma função de Desenvolvedor Backend. <br>
+<p align="left"> Técnico em Desenvolvimento de Sistemas pela Etec Machado de Asiss, atualmente cursando Banco de Dados na Fatec Prof. Jassen Vidal, em São José dos Campos. Sou apaixonado por desenvolvimento de software e, atualmente, estou focado em expandir minhas habilidades como Desenvolvedor Backend, com ênfase em Java e Spring Boot. <br>
   
-  <br>🧠 - Aprendendo Java com Spring Framework</p>
+  <br>🧠 - Estudando Java e Spring Boot</p>
 
   <a href = "https://www.linkedin.com/in/vncssd">
   <img src="https://camo.githubusercontent.com/8f3febfdb7e01c6e70c7b45df35c37a7acf3b62d52a205b6a8d1e52c6fb93870/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d2532333030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"> </a>
