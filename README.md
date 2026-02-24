@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left"> No momento atuo como Cabo do Exército na arma de Comunicações e Auxiliar de T.I. no 6º Batalhão de Infantaria Aeromóvel, em Caçapava/SP, oferecendo suporte técnico, realizando manutenção preventiva, montagem e configuração de hardware, administração/instalação e manutenção de redes, segurança da informação, backups e desenvolvimento e manutenção de sistemas internos. Minhas habilidades também incluem liderança, assistência e aconselhamento, participação em operações, supervisão de atividades operacionais e administrativas, e apoio no treinamento de soldados mais novos. <br>
+<p align="left"> Técnico em Desenvolvimento de Sistemas pela Etec Machado de Asiss, atualmente cursando Banco de Dados na Fatec Prof. Jassen Vidal, em São José dos Campos com uma sólida base em Suporte de TI, adquirida como Auxiliar de Informática no Exército Brasileiro. Sou apaixonado por desenvolvimento de software e, atualmente, estou focado em expandir minhas habilidades como Desenvolvedor Backend, com ênfase em Java e Spring Boot. Busco oportunidades para transicionar minhas habilidades analíticas e de resolução de problemas para uma função de Desenvolvedor Backend. <br>
   
   <br>🧠 - Aprendendo Java com Spring Framework</p>
 
