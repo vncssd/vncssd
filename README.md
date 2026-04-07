@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">👨🏽‍💻 Desenvolvedor Backend em formação <br><br> 📚 Aluno do 2° Semestre de Banco de Dados da Fatec São José dos Campos </p>
+<p align="left">👨🏽‍💻 Aluno do 2° Semestre de Banco de Dados da Fatec São José dos Campos </p>
 
 ###
 
