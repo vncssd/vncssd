@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left"> Técnico em Desenvolvimento de Sistemas pela Etec Machado de Asiss, atualmente cursando Banco de Dados na Fatec Prof. Jassen Vidal, em São José dos Campos. Sou apaixonado por desenvolvimento de software e, atualmente, estou focado em expandir minhas habilidades como Desenvolvedor Backend. <br>
+<p align="left"> Técnico em Desenvolvimento de Sistemas pela Etec Machado de Assis e atualmente cursando Tecnólogo em Banco de Dados na Fatec Prof. Jessen Vidal, em São José dos Campos. Sempre fui curioso sobre como as coisas funcionam por baixo dos panos, e foi essa curiosidade que me aproximou da cibersegurança. Com o tempo fui percebendo que essa área vai muito além da tecnologia em si, ela envolve responsabilidade, atenção aos detalhes e uma preocupação real com as pessoas e as informações que precisam ser protegidas. É exatamente essa combinação entre desafio técnico e propósito que faz com que eu me dedique cada vez mais a aprender e crescer nesse campo. <br>
 
   <br>
   <a href = "https://www.linkedin.com/in/vncssd">
