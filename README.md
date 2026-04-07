@@ -1,4 +1,4 @@
-<h1 align="left">Oi 👋 Eu sou Vinícius </h1>
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/b9542ee4-92ff-4112-841c-e113524d94bb" /><img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/d38cfea7-3086-4b8b-8921-83ecda6dd36b" /><h1 align="left">Oi 👋 Eu sou Vinícius </h1>
 
 ###
 
@@ -37,7 +37,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="40" alt="postgres logo"/>
   <img width="12" />
-  <img src="https://img.logokit.com/suricata.io" alt="suricata logo"/>
+  <img src="https://suricata.io/wp-content/uploads/2021/01/cropped-favicon.png" alt="suricata logo"/>
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Wireshark_icon_new.png" height="40" alt="wireshark logo"/>
   <img width="12" />
