@@ -37,9 +37,13 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="40" alt="postgres logo"/>
   <img width="12" />
-  <img src="https://suricata.io/wp-content/uploads/2021/01/cropped-favicon.png" height="40" alt="suricata logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" alt="python logo"/>
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Wireshark_icon_new.png" height="40" alt="wireshark logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" height="40" alt="airflow logo"/>
+  <img width="12" />
+  <img src="https://experionglobal.com/wp-content/uploads/2024/05/SNOW-35164165-300x300.png" height="40" alt="snowflake logo"/>
+  <img width="12" />
+  <img src="https://images.seeklogo.com/logo-png/43/2/dbt-logo-png_seeklogo-431111.png" height="40" alt="dbt logo"/>
   <img width="12" />
 </div>
 
