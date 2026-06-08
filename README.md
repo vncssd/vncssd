@@ -45,6 +45,8 @@
   <img width="12" />
   <img src="https://images.seeklogo.com/logo-png/43/2/dbt-logo-png_seeklogo-431111.png" height="40" alt="dbt logo"/>
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" height="40" alt="docker logo"/>
+  <img width="12" />
 </div>
 
 ###
